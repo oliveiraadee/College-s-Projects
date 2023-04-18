@@ -2,7 +2,7 @@
 
 ### [Algorithms And Data Structure](https://github.com/oliveiraadee/AlgorithmsAndDataStructure)
 ### [AOP](https://github.com/oliveiraadee/AOP)
-### [Email Frontend] (https://github.com/oliveiraadee/email-frontend)
+### [Email Frontend](https://github.com/oliveiraadee/email-frontend)
 ### [Manager Sprint Plan DB](https://github.com/oliveiraadee/ManagerSprintPlanDB)
 ### [Manager Sprint Plan Web](https://github.com/oliveiraadee/ManagerSprintPlanWeb)
 ### [Spring AOP](https://github.com/oliveiraadee/SpringAOP)
